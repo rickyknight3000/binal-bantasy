@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1759393936
+::res://assets/::1759221841
+::res://assets/maps/::1758182480
+NES - Final Fantasy - Maps - Corneria.png::CompressedTexture2D::8303784067072127137::1758182413::1758182480::1::::<><><>0<>0<>844cb4ca202956a45d3ede8b4a9f5738<>res://.godot/imported/NES - Final Fantasy - Maps - Corneria.png-9580e14d75c00c9db4a2b1d261ff51fd.ctex::
+::res://assets/sprites/::1758182958
+world sprites.png::CompressedTexture2D::2250405362579566525::1753171706::1758182958::1::::<><><>0<>0<>ff7d5909cd88976ea87515d07f3b1dc8<>res://.godot/imported/world sprites.png-db32de40abe162ad297587c49947ef2f.ctex::
+::res://scenes/::1759380711
+corneria.tscn::PackedScene::4885905056570125879::1759225127::0::1::::<><><>0<>0<><>::uid://ccv047t4wgsix::::res://scenes/player.tscn<>uid://dqkod0uvv55f6::::res://assets/maps/NES - Final Fantasy - Maps - Corneria.png
+main.tscn::PackedScene::1429744493314495619::1759226154::0::1::::<><><>0<>0<><>::uid://ci2qk7h8145es::::res://scripts/game_controller.gd<>uid://cgs0k727nnpga::::res://scenes/world_map.tscn
+player.tscn::PackedScene::4958142411785697887::1759380711::0::1::::<><><>0<>0<><>::uid://d18pncvd5b44n::::res://scripts/player.gd<>uid://7cd320pk8pyj::::res://assets/sprites/world sprites.png
+world_map.tscn::PackedScene::5232670735474441216::1759226138::0::1::::<><><>0<>0<><>::uid://dqkod0uvv55f6::::res://assets/maps/NES - Final Fantasy - Maps - Corneria.png<>uid://ccv047t4wgsix::::res://scenes/player.tscn
+::res://scripts/::1759226138
+game_controller.gd::GDScript::5391081338769511418::1759226138::0::1::::GameController<>Node<><>0<>0<><>::
+global.gd::GDScript::3507592313719566590::1759223812::0::1::::<>Node<><>0<>0<><>::
+player.gd::GDScript::9053230559428441571::1759221975::0::1::::<>CharacterBody2D<><>0<>0<><>::
